@@ -3,6 +3,8 @@ layout: default
 title: "About me"
 ---
 
+<img src="/assets/images/fesser_kempner_2024.jpg" alt="Lukas D. Fesser" style="float: right; margin-left: 20px; width: 150px;">
+
 # About me
 
 Hi! I am a PhD student in (Applied) Mathematics at Harvard University, where I am fortunate to be advised by Melanie Weber in the Geometric Machine Learning group. My work is supported by a Graduate Research fellowship from Harvard's Kempner Institute for Natural and Artificial Intelligence.
