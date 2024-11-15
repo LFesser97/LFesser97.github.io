@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Hello World"
+title: "About me"
 ---
 
-# Hello World
+# About me
 
 Hi! I am a PhD student in (Applied) Mathematics at Harvard University, where I am fortunate to be advised by Melanie Weber in the Geometric Machine Learning group. My work is supported by a Graduate Research fellowship from Harvard's Kempner Institute for Natural and Artificial Intelligence.
 
