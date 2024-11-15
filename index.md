@@ -3,7 +3,7 @@ layout: default
 title: "About me"
 ---
 
-<img src="/assets/images/fesser_kempner_2024.jpg" alt="Lukas D. Fesser" style="float: right; margin-left: 20px; width: 150px;">
+<img src="/assets/images/fesser_kempner_2024.jpg" alt="Lukas D. Fesser" style="float: right; margin-left: 20px; width: 300px;">
 
 # About me
 
