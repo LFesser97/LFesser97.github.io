@@ -1,3 +1,13 @@
 theme: minima
 title: "Lukas D. Fesser"
 description: "This is a test site using GitHub Pages and Jekyll"
+
+# Custom footer content
+footer:
+  text: |
+    Lukas D. Fesser  
+    Department of Applied Mathematics and  
+    Kempner Institute for Natural and Artificial Intelligence  
+    Harvard University  
+    Cambridge, MA 02138  
+    [lukas_fesser@g.harvard.edu](mailto:lukas_fesser@g.harvard.edu)
