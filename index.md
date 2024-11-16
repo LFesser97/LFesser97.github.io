@@ -14,5 +14,3 @@ My research focuses on Geometric Deep Learning and its applications in Biomedica
 Prior to Harvard, I received my Master’s in Mathematics with Distinction from [Trinity College](https://www.trinity.ox.ac.uk/), University of Oxford, where I was supervised by [Harald Oberhauser](https://www.maths.ox.ac.uk/people/harald.oberhauser) and [Renaud Lambiotte](https://www.maths.ox.ac.uk/people/renaud.lambiotte). My work at Oxford focused on Stochastic Analysis and applications of Geometry in Network Science, exploring mathematical frameworks that inform understanding of dynamic and networked systems.
 
 I am always happy to meet new people! Feel free to reach out on Twitter or via email.
-
-[Research](research.md)
