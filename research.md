@@ -7,7 +7,7 @@ title: "Research"
 
 Welcome to my research page. Below are selected projects and publications. Please refer to my [CV](https://lfesser97.github.io/assets/pdfs/Resume_2024.pdf) or [Google Scholar](https://scholar.google.co.uk/citations?user=c1wgSpMAAAAJ&hl=en) for a complete list.
 
-# Geometric Deep Learning Foundations
+## Geometric Deep Learning Foundations:
 
 ## - Unitary Convolutions for Learning on Graphs and Groups
 
@@ -19,7 +19,7 @@ Group-convolutional architectures, which encode symmetries as inductive bias, ha
 - **Venue**: Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Spotlight.
 - **Links**: [Paper](https://arxiv.org/abs/2410.05499), [GitHub Repository](https://github.com/Weber-GeoML/Unitary_Convolutions).
 
-# Curvature in Graph Machine Learning
+## Curvature in Graph Machine Learning:
 
 ## - Effective Structural Encodings via Local Curvature Profiles
 
