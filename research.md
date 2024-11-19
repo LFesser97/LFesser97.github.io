@@ -15,9 +15,9 @@ Welcome to my research page. Below are selected projects and publications. Pleas
 
 Group-convolutional architectures, which encode symmetries as inductive bias, have shown great success in applications, but can suffer from instabilities as their depth increases and often struggle to learn long range dependencies in data. For instance, graph neural networks experience instability due to the convergence of node representations (over-smoothing), which can occur after only a few iterations of message-passing, reducing their effectiveness in downstream tasks. Here, we propose and study unitary group convolutions, which allow for deeper networks that are more stable during training. The main focus of the paper are graph neural networks, where we show that unitary graph convolutions provably avoid over-smoothing. Our experimental results confirm that unitary graph convolutional networks achieve competitive performance on benchmark datasets compared to state-of-the-art graph neural networks. 
 
-- Authors: Bobak Kiani, Lukas Fesser, Melanie Weber.
-- Venue: Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Spotlight.
-- Links: [Paper](https://arxiv.org/abs/2410.05499), [GitHub Repository](https://github.com/Weber-GeoML/Unitary_Convolutions).
+- **Authors**: Bobak Kiani, Lukas Fesser, Melanie Weber.
+- **Venue**: Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Spotlight.
+- **Links**: [Paper](https://arxiv.org/abs/2410.05499), [GitHub Repository](https://github.com/Weber-GeoML/Unitary_Convolutions).
 
 ## Curvature in Graph Machine Learning
 
